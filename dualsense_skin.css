@@ -21,7 +21,7 @@ body {
 } .ds4 .stick.pressed.left, .ds4 .stick.pressed.right {
     background-position: -95px 0;
 } .ds4 .stick.right {
-    top: 22;
+    top: -22;
     left: 255px;
 } .ds4 .abxy {
     width: 181px;
